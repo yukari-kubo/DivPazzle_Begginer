@@ -30,7 +30,7 @@ body {width: 100%;
 }
 .clearfix::after{
   content: "";
-  display: block;
+  display:block;
   clear: both;
   height: 0;
   visibility: hidden;
