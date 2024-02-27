@@ -15,18 +15,18 @@ body {width: 100%;
   float:left;
   width:150px;
   height:250px;
-  background: color #00ff00;
+  background-color:#00ff00 #00ff00;
 }
 .side{
   float: right;
   width: 250px;
   height:150px;
-  background: color #3300ff;
+  background-color: #3300ff;
 }
 .footer{
   width:100%;
   height:100px;
-  background: color #ffe600;
+  background-color: #ffe600;
 }
 .clearfix::after{
   content: "";
