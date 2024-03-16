@@ -51,17 +51,3 @@ table {
 img{
   vertical-align: top;
 }
-
-/******************************************/
-/****************************** clearfix **/
-/******************************************/
-
-.clearfix {
-	zoom:1;
-}
-
-.clearfix:after {
-	display: block;
-	clear: both;
-	content: "";
-}

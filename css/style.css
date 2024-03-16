@@ -4,7 +4,7 @@ body {width: 100%;
 }
 .wrapper {
   width:400px;
-  margin:0 aut;
+  margin:0 auto;
 }
 .header {
   width:100%;
@@ -24,7 +24,6 @@ body {width: 100%;
   background-color:#3300ff;
 }
 .footer{
-  width:100%;
   height:100px;
   background-color:#ffe600;
 }
@@ -32,6 +31,4 @@ body {width: 100%;
   content:"";
   display:block;
   clear:both;
-  height: 0;
-  visibility:hidden;
 }
